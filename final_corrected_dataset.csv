@@ -47,13 +47,13 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-09-11,Leicester City 0:1 Manchester City,31,Ederson,Goalkeeper,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,2,Kyle Walker,Defender,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,22,Benjamin Mendy,Defender,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
-2021-09-11,Leicester City 0:1 Manchester City,14,Aymeric Laporte,Defender,1,0,1,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
+2021-09-11,Leicester City 0:1 Manchester City,14,Aymeric Laporte,Defender,0,0,1,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,21,Ferran Torres,Midfielder/Forward,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,56,CJ Egan-Riley,Defender/Midfielder,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
-2021-09-11,Leicester City 0:1 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,1,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
+2021-09-11,Leicester City 0:1 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,1,1,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,80,Cole Palmer,Midfielder/Forward,0,0,0,0,0,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,48,Liam Delap,Forward,0,0,0,0,1,17.900000000000002,9.9,0.0,126.5,136.3,1,3
 2021-09-11,Leicester City 0:1 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,1,17.900000000000002,9.9,0.0,126.5,136.3,1,3
@@ -98,8 +98,8 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-10-03,Liverpool 2:2 Manchester City,21,Ferran Torres,Midfielder/Forward,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
 2021-10-03,Liverpool 2:2 Manchester City,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,1,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
 2021-10-03,Liverpool 2:2 Manchester City,47,Phil Foden,Midfielder/Forward,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
-2021-10-03,Liverpool 2:2 Manchester City,9,Gabriel Jesus,Forward,2,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
-2021-10-03,Liverpool 2:2 Manchester City,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
+2021-10-03,Liverpool 2:2 Manchester City,9,Gabriel Jesus,Forward,1,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
+2021-10-03,Liverpool 2:2 Manchester City,26,Riyad Mahrez,Midfielder/Forward,1,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
 2021-10-03,Liverpool 2:2 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
 2021-10-03,Liverpool 2:2 Manchester City,14,Aymeric Laporte,Defender,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
 2021-10-03,Liverpool 2:2 Manchester City,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,6
@@ -127,8 +127,8 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-10-23,Brighton and Hove Albion 1:4 Manchester City,16,Rodri,Midfielder,2,0,1,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
 2021-10-23,Brighton and Hove Albion 1:4 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,1,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
 2021-10-23,Brighton and Hove Albion 1:4 Manchester City,47,Phil Foden,Midfielder/Forward,1,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
-2021-10-23,Brighton and Hove Albion 1:4 Manchester City,20,Bernardo Silva,Midfielder/Forward,1,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
-2021-10-23,Brighton and Hove Albion 1:4 Manchester City,9,Gabriel Jesus,Forward,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
+2021-10-23,Brighton and Hove Albion 1:4 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
+2021-10-23,Brighton and Hove Albion 1:4 Manchester City,9,Gabriel Jesus,Forward,1,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
 2021-10-23,Brighton and Hove Albion 1:4 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
 2021-10-23,Brighton and Hove Albion 1:4 Manchester City,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
 2021-10-23,Brighton and Hove Albion 1:4 Manchester City,47,Phil Foden,Midfielder/Forward,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
@@ -136,8 +136,8 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-10-23,Brighton and Hove Albion 1:4 Manchester City,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,4,8
 2021-10-30,Manchester City 0:2 Crystal Palace,31,Ederson,Goalkeeper,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
 2021-10-30,Manchester City 0:2 Crystal Palace,5,John Stones,Defender,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
-2021-10-30,Manchester City 0:2 Crystal Palace,11,Olexsandr Zinchenko,Defender/Midfielder,1,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
-2021-10-30,Manchester City 0:2 Crystal Palace,3,Rúben Dias,Defender,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
+2021-10-30,Manchester City 0:2 Crystal Palace,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
+2021-10-30,Manchester City 0:2 Crystal Palace,3,Rúben Dias,Defender,1,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
 2021-10-30,Manchester City 0:2 Crystal Palace,14,Aymeric Laporte,Defender,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
 2021-10-30,Manchester City 0:2 Crystal Palace,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
 2021-10-30,Manchester City 0:2 Crystal Palace,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
@@ -149,13 +149,13 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-10-30,Manchester City 0:2 Crystal Palace,9,Gabriel Jesus,Forward,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
 2021-10-30,Manchester City 0:2 Crystal Palace,8,İlkay Gündogan,Midfielder,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
 2021-10-30,Manchester City 0:2 Crystal Palace,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,1,12.633333333333333,6.233333333333333,1.0,135.86666666666667,78.55,2,9
-2021-11-06,Manchester United 0:2 Manchester City,31,Ederson,Goalkeeper,1,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
+2021-11-06,Manchester United 0:2 Manchester City,31,Ederson,Goalkeeper,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,5,John Stones,Defender,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,3,Rúben Dias,Defender,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,2,Kyle Walker,Defender,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
-2021-11-06,Manchester United 0:2 Manchester City,21,Ferran Torres,Midfielder/Forward,1,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
+2021-11-06,Manchester United 0:2 Manchester City,21,Ferran Torres,Midfielder/Forward,2,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,16,Rodri,Midfielder,0,0,1,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
 2021-11-06,Manchester United 0:2 Manchester City,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,8.066666666666666,3.6,4.666666666666667,139.79999999999998,36.35,2,10
@@ -271,9 +271,9 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-12-19,Newcastle United 0:4 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,1,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,4,17
 2021-12-26,Manchester City 6:3 Leicester City,31,Ederson,Goalkeeper,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
 2021-12-26,Manchester City 6:3 Leicester City,6,Nathan Aké,Defender,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
-2021-12-26,Manchester City 6:3 Leicester City,14,Aymeric Laporte,Defender,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
+2021-12-26,Manchester City 6:3 Leicester City,14,Aymeric Laporte,Defender,1,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
 2021-12-26,Manchester City 6:3 Leicester City,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
-2021-12-26,Manchester City 6:3 Leicester City,27,João Cancelo,Defender,1,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
+2021-12-26,Manchester City 6:3 Leicester City,27,João Cancelo,Defender,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
 2021-12-26,Manchester City 6:3 Leicester City,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
 2021-12-26,Manchester City 6:3 Leicester City,7,Raheem Sterling,Midfielder/Forward,2,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
 2021-12-26,Manchester City 6:3 Leicester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,3,18
@@ -287,10 +287,10 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-12-29,Brentford 0:1 Manchester City,31,Ederson,Goalkeeper,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,27,João Cancelo,Defender,0,0,1,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
-2021-12-29,Brentford 0:1 Manchester City,6,Nathan Aké,Defender,0,0,1,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
+2021-12-29,Brentford 0:1 Manchester City,6,Nathan Aké,Defender,1,0,1,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,14,Aymeric Laporte,Defender,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,11,Olexsandr Zinchenko,Defender/Midfielder,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
-2021-12-29,Brentford 0:1 Manchester City,20,Bernardo Silva,Midfielder/Forward,1,0,1,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
+2021-12-29,Brentford 0:1 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,1,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
@@ -300,14 +300,14 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2021-12-29,Brentford 0:1 Manchester City,80,Cole Palmer,Midfielder/Forward,0,0,0,0,1,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2021-12-29,Brentford 0:1 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,1,8.200000000000001,2.8666666666666667,5.0,71.93333333333334,54.4,1,19
 2022-01-01,Arsenal 1:2 Manchester City,13,Zack Steffen,Goalkeeper,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
-2022-01-01,Arsenal 1:2 Manchester City,6,Nathan Aké,Defender,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
+2022-01-01,Arsenal 1:2 Manchester City,6,Nathan Aké,Defender,1,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,27,João Cancelo,Defender,0,0,1,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,5,John Stones,Defender,0,0,1,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,1,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,26,Riyad Mahrez,Midfielder/Forward,1,1,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,1,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
-2022-01-01,Arsenal 1:2 Manchester City,47,Phil Foden,Midfielder/Forward,1,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
+2022-01-01,Arsenal 1:2 Manchester City,47,Phil Foden,Midfielder/Forward,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,1,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
 2022-01-01,Arsenal 1:2 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,0,0,1,7.800000000000001,2.8,6.5,41.06666666666666,43.75,2,20
@@ -334,12 +334,12 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-01-22,Southampton 1:1 Manchester City,2,Kyle Walker,Defender,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,3,Rúben Dias,Defender,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,6,Nathan Aké,Defender,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
-2022-01-22,Southampton 1:1 Manchester City,20,Bernardo Silva,Midfielder/Forward,1,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
+2022-01-22,Southampton 1:1 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,47,Phil Foden,Midfielder/Forward,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,8,İlkay Gündogan,Midfielder,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,9,Gabriel Jesus,Forward,0,0,1,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
-2022-01-22,Southampton 1:1 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
+2022-01-22,Southampton 1:1 Manchester City,20,Bernardo Silva,Midfielder/Forward,1,0,0,0,0,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,1,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,1,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
 2022-01-22,Southampton 1:1 Manchester City,8,İlkay Gündogan,Midfielder,0,0,0,0,1,7.800000000000001,2.8,6.5,41.06666666666666,43.75,1,22
@@ -445,9 +445,9 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-04-02,Burnley 0:2 Manchester City,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
 2022-04-02,Burnley 0:2 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
 2022-04-02,Burnley 0:2 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
-2022-04-02,Burnley 0:2 Manchester City,6,Nathan Aké,Defender,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
+2022-04-02,Burnley 0:2 Manchester City,6,Nathan Aké,Defender,1,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
 2022-04-02,Burnley 0:2 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
-2022-04-02,Burnley 0:2 Manchester City,80,Cole Palmer,Midfielder/Forward,1,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
+2022-04-02,Burnley 0:2 Manchester City,80,Cole Palmer,Midfielder/Forward,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
 2022-04-02,Burnley 0:2 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,29
 2022-04-10,Manchester City 2:2 Liverpool,31,Ederson,Goalkeeper,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,3,Rúben Dias,Defender,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
@@ -455,11 +455,11 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-04-10,Manchester City 2:2 Liverpool,14,Aymeric Laporte,Defender,0,0,1,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,5,John Stones,Defender,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
-2022-04-10,Manchester City 2:2 Liverpool,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
-2022-04-10,Manchester City 2:2 Liverpool,47,Phil Foden,Midfielder/Forward,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
-2022-04-10,Manchester City 2:2 Liverpool,8,İlkay Gündogan,Midfielder,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,17,Kevin De Bruyne,Midfielder/Forward,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,47,Phil Foden,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
+2022-04-10,Manchester City 2:2 Liverpool,8,İlkay Gündogan,Midfielder,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
+2022-04-10,Manchester City 2:2 Liverpool,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
+2022-04-10,Manchester City 2:2 Liverpool,47,Phil Foden,Midfielder/Forward,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,10,Jack Grealish,Midfielder/Forward,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,25,Fernandinho,Defender/Midfielder,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
 2022-04-10,Manchester City 2:2 Liverpool,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,2,30
@@ -487,8 +487,8 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-04-23,Manchester City 5:1 Watford,16,Rodri,Midfielder,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
 2022-04-23,Manchester City 5:1 Watford,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
 2022-04-23,Manchester City 5:1 Watford,47,Phil Foden,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
-2022-04-23,Manchester City 5:1 Watford,7,Raheem Sterling,Midfielder/Forward,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
-2022-04-23,Manchester City 5:1 Watford,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
+2022-04-23,Manchester City 5:1 Watford,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
+2022-04-23,Manchester City 5:1 Watford,26,Riyad Mahrez,Midfielder/Forward,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
 2022-04-23,Manchester City 5:1 Watford,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
 2022-04-23,Manchester City 5:1 Watford,10,Jack Grealish,Midfielder/Forward,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
 2022-04-23,Manchester City 5:1 Watford,47,Phil Foden,Midfielder/Forward,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,1,32
@@ -499,11 +499,11 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-04-30,Leeds United 0:4 Manchester City,5,John Stones,Defender,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
 2022-04-30,Leeds United 0:4 Manchester City,27,João Cancelo,Defender,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
 2022-04-30,Leeds United 0:4 Manchester City,6,Nathan Aké,Defender,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
-2022-04-30,Leeds United 0:4 Manchester City,10,Jack Grealish,Midfielder/Forward,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
-2022-04-30,Leeds United 0:4 Manchester City,8,İlkay Gündogan,Midfielder,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
+2022-04-30,Leeds United 0:4 Manchester City,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
+2022-04-30,Leeds United 0:4 Manchester City,8,İlkay Gündogan,Midfielder,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
 2022-04-30,Leeds United 0:4 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
-2022-04-30,Leeds United 0:4 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
-2022-04-30,Leeds United 0:4 Manchester City,26,Riyad Mahrez,Midfielder/Forward,1,1,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
+2022-04-30,Leeds United 0:4 Manchester City,20,Bernardo Silva,Midfielder/Forward,1,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
+2022-04-30,Leeds United 0:4 Manchester City,26,Riyad Mahrez,Midfielder/Forward,2,1,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
 2022-04-30,Leeds United 0:4 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
 2022-04-30,Leeds United 0:4 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
 2022-04-30,Leeds United 0:4 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,1,14.65,4.566666666666667,2.6666666666666665,21.4,178.1,4,33
@@ -526,14 +526,14 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-05-08,Manchester City 5:0 Newcastle United,8,İlkay Gündogan,Midfielder,0,0,0,0,1,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,0,34
 2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,31,Ederson,Goalkeeper,0,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
 2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,6,Nathan Aké,Defender,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
-2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,3,Rúben Dias,Defender,1,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
+2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,3,Rúben Dias,Defender,0,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
 2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,5,John Stones,Defender,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
-2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,14,Aymeric Laporte,Defender,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
-2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
-2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,26,Riyad Mahrez,Midfielder/Forward,2,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
-2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,20,Bernardo Silva,Midfielder/Forward,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
+2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,14,Aymeric Laporte,Defender,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
+2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
+2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,26,Riyad Mahrez,Midfielder/Forward,3,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
+2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
 2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,47,Phil Foden,Midfielder/Forward,0,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
-2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,20,Bernardo Silva,Midfielder/Forward,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
+2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,20,Bernardo Silva,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
 2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
 2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,1,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
 2022-05-11,Wolverhampton Wanderers 1:5 Manchester City,47,Phil Foden,Midfielder/Forward,0,0,0,0,1,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,5,35
@@ -545,10 +545,10 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-05-15,West Ham United 2:2 Manchester City,2,Kyle Walker,Defender,0,0,0,1,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
 2022-05-15,West Ham United 2:2 Manchester City,27,João Cancelo,Defender,0,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
 2022-05-15,West Ham United 2:2 Manchester City,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
-2022-05-15,West Ham United 2:2 Manchester City,8,İlkay Gündogan,Midfielder,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
+2022-05-15,West Ham United 2:2 Manchester City,8,İlkay Gündogan,Midfielder,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
 2022-05-15,West Ham United 2:2 Manchester City,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
 2022-05-15,West Ham United 2:2 Manchester City,10,Jack Grealish,Midfielder/Forward,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
-2022-05-15,West Ham United 2:2 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
+2022-05-15,West Ham United 2:2 Manchester City,17,Kevin De Bruyne,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
 2022-05-15,West Ham United 2:2 Manchester City,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
 2022-05-15,West Ham United 2:2 Manchester City,8,İlkay Gündogan,Midfielder,0,0,0,0,1,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
 2022-05-15,West Ham United 2:2 Manchester City,25,Fernandinho,Defender/Midfielder,0,0,0,0,1,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,36
@@ -559,8 +559,8 @@ Date,Teams_Result,JerseyNo,Player,Position,Goals,Penalties,YellowCards,RedCards,
 2022-05-22,Manchester City 3:2 Aston Villa,14,Aymeric Laporte,Defender,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
 2022-05-22,Manchester City 3:2 Aston Villa,5,John Stones,Defender,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
 2022-05-22,Manchester City 3:2 Aston Villa,17,Kevin De Bruyne,Midfielder/Forward,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
-2022-05-22,Manchester City 3:2 Aston Villa,7,Raheem Sterling,Midfielder/Forward,1,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
-2022-05-22,Manchester City 3:2 Aston Villa,10,Jack Grealish,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
+2022-05-22,Manchester City 3:2 Aston Villa,7,Raheem Sterling,Midfielder/Forward,0,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
+2022-05-22,Manchester City 3:2 Aston Villa,10,Jack Grealish,Midfielder/Forward,1,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
 2022-05-22,Manchester City 3:2 Aston Villa,16,Rodri,Midfielder,0,0,1,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
 2022-05-22,Manchester City 3:2 Aston Villa,7,Raheem Sterling,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
 2022-05-22,Manchester City 3:2 Aston Villa,26,Riyad Mahrez,Midfielder/Forward,0,0,0,0,0,17.03333333333333,6.949999999999999,0.9166666666666666,22.616666666666667,217.05,2,37
